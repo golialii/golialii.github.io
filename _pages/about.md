@@ -14,13 +14,19 @@ My research interests include digital marketing, advertising, marketing and publ
 
 ## Education
 * Ph.D. in Marketing, Booth School of Business, University of Chicago, 2020
-* MBA, Booth School of Business, University of Chicago, 2020
-* M.Sc. in Operations Research, University of Toronto, 2015
+  * Advisors: Pradeep K. Chintagunta and Jean-Pierre Dubé
+  * GPA: 3.9/4.0
+* Master of Applied Science, University of Toronto, 2015
+  * Industrial Engineering (Operations Research)
+  * Advisor: Timothy C.Y. Chan
+  * GPA: 4.0/4.0
 * B.Sc in Electrical Engineering and Mathematics (Double Major with honors), Sharif University of Technology, 2013
+  * Advisor: Farokh Marvasti
+  * GPA: 18.2/20
 
 ## Professional Experience
 * 2025-Present: Assistant Professor, Simon Business School, University of Rochester
-* 2024-2025: Senior Economist (Measurement Ad Tech & Data Science), Amazon
+* 2024-Present: Senior Economist (Measurement Ad Tech & Data Science), Amazon
 * 2020-2025: Assistant Professor, Foster School of Business, University of Washington
 * 2019-2020: Contractor (Data Scientist/Economist), Pandora Media
 * 2011: Research Intern, Ecole Polytechnique Fédérale de Lausanne (EPFL)
