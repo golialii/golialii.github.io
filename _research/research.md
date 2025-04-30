@@ -5,10 +5,15 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)  
+-----  
+*Forthcoming at International Journal of Research in Marketing*  
+
+(D. Proserpio, **A. Goli**, T. Mangini, K. Lau, D. Yu)  
 
 Measuring Consumer Sensitivity to Audio Advertising: A Long-Run Field Experiment on Pandora Internet Radio [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3166676)  
 -----  
-*Working Paper*  
+*Quantitative Marketing & Economics, 2025*  
 
 (**A. Goli**, J. Huang, D. Reiley, N. Riabov)  
 
@@ -54,11 +59,6 @@ What Happens When a Retailer Drops a Product Category? Investigating the Consequ
 
 (**A. Goli**, P. K. Chintagunta)  
 
-The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)  
------  
-*Forthcoming at International Journal of Research in Marketing*  
-
-(D. Proserpio, **A. Goli**, T. Mangini, K. Lau, D. Yu)  
 
 User Engagement with Online Discussion Content: Does it Affect Attrition? [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)  
 -----  
