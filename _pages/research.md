@@ -34,6 +34,15 @@ Forthcoming, *International Journal of Research in Marketing*. [SSRN](https://pa
 **What Happens When a Retailer Drops a Product Category? Ending Tobacco Sales**  
 *Marketing Science*, 40(6), 1169–1198, 2021. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232580), [CBR Video](https://www.youtube.com/watch?v=7AO-wtM7TQQ)
 
+**A Small Number of Objective Function Weight Vectors is Sufficient for Treatment Planning in Prostate Cancer**  
+*Physics in Medicine & Biology*, 63(19), 2018. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/aade39)
+
+**Universal Bounds on the Scaling Behavior of Polar Codes**  
+*IEEE ISIT Proceedings*, 1957–1961, 2012. [Link](https://ieeexplore.ieee.org/document/6283742)
+
+**Simplified MAP-MUD for Active User CDMA**  
+*IEEE Communications Letters*, 15(6), 599–601, 2011. [Link](https://ieeexplore.ieee.org/document/5771472)
+
 ---
 
 ### *Working Papers*
@@ -44,7 +53,7 @@ Forthcoming, *International Journal of Research in Marketing*. [SSRN](https://pa
 **Investigating the Impact of Advertising on Smoking Cessation: The Role of DTC Prescription Drug Advertising**  
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
 
-**Retail Pricing and Ownership Structure**  
+**Retail Pricing and Organizational Structure**  
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
 
 **Gender Diversity on Cable News: An Analysis of On-Screen Talent and Viewership**  
@@ -52,13 +61,3 @@ Forthcoming, *International Journal of Research in Marketing*. [SSRN](https://pa
 
 ---
 
-### *Other Publications*
-
-**A Small Number of Objective Function Weight Vectors is Sufficient for Treatment Planning in Prostate Cancer**  
-*Physics in Medicine & Biology*, 63(19), 2018. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/aade39)
-
-**Universal Bounds on the Scaling Behavior of Polar Codes**  
-*IEEE ISIT Proceedings*, 1957–1961, 2012. [Link](https://ieeexplore.ieee.org/document/6283742)
-
-**Simplified MAP-MUD for Active User CDMA**  
-*IEEE Communications Letters*, 15(6), 599–601, 2011. [Link](https://ieeexplore.ieee.org/document/5771472)
