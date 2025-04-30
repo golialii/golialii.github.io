@@ -60,15 +60,15 @@ P. Pad, A. Mousavi, **A. Goli**, F. Marvasti
 ### *Working Papers*
 
 **User Engagement with Online Discussion Content: Does it Affect Attrition?**  
-V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
+V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
 
 **Investigating the Impact of Advertising on Smoking Cessation**  
-E. Loghmani, **A. Goli**  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
+E. Loghmani, **A. Goli**.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
 
 **Retail Pricing and Ownership Structure**  
-S. Tabanakov, **A. Goli**, P. K. Chintagunta  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
+S. Tabanakov, **A. Goli**, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
 
 **Gender Diversity on Cable News: An Analysis of On-Screen Talent and Viewership**  
-**A. Goli**, S. Mummalaneni  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4462592)
+**A. Goli**, S. Mummalaneni.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4462592)
 
 ---
