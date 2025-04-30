@@ -48,7 +48,7 @@ Forthcoming, *International Journal of Research in Marketing*. [SSRN](https://pa
 *Physics in Medicine & Biology*, 63(19), 2018. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/aad2f0)
 
 **Universal Bounds on the Scaling Behavior of Polar Codes**  
-**A. Goli**, S. H. Hassani, R. Urbanke
+**A. Goli**, S. H. Hassani, R. Urbanke  
 *IEEE ISIT Proceedings*, 1957–1961, 2012. [Link](https://ieeexplore.ieee.org/abstract/document/6283641)
 
 **Simplified MAP-MUD for Active User CDMA**  
