@@ -8,27 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Marketing at the Simon Business School, University of Rochester. Previously, I served as an Assistant Professor at the Foster School of Business, University of Washington (2020-2025), and as a Senior Economist at Amazon (2024-2025).
+I am an Assistant Professor of Marketing at the Foster School of Business, University of Washington. In July 2025, I will be joining the Simon Business School at the University of Rochester as an Assistant Professor of Marketing. I also serve as a Senior Economist at Amazon (2024-Present).
 
 My research interests include digital marketing, advertising, marketing and public policy, customer loyalty, and behavioral economics.
 
 ## Education
 * Ph.D. in Marketing, Booth School of Business, University of Chicago, 2020
-  * Advisors: Pradeep K. Chintagunta and Jean-Pierre Dubé
-  * GPA: 3.9/4.0
-* Master of Applied Science, University of Toronto, 2015
-  * Industrial Engineering (Operations Research)
-  * Advisor: Timothy C.Y. Chan
-  * GPA: 4.0/4.0
-* B.Sc in Electrical Engineering and Mathematics (Double Major with honors), Sharif University of Technology, 2013
-  * Advisor: Farokh Marvasti
-  * GPA: 18.2/20
+* MBA, Booth School of Business, University of Chicago, 2020
+* M.Sc. in Operations Research, University of Toronto, 2015
+* B.Sc. in Electrical Engineering, Sharif University of Technology, 2013
+* B.Sc. in Mathematics, Sharif University of Technology, 2013
 
 ## Professional Experience
-* 2025-Present: Assistant Professor, Simon Business School, University of Rochester
+* 2025-Future: Assistant Professor, Simon Business School, University of Rochester
 * 2024-Present: Senior Economist (Measurement Ad Tech & Data Science), Amazon
-* 2020-2025: Assistant Professor, Foster School of Business, University of Washington
-* 2019-2020: Contractor (Data Scientist/Economist), Pandora Media
+* 2020-Present: Assistant Professor, Foster School of Business, University of Washington
+* 2019-2020: Data Scientist/Economist Contractor, Pandora Media
 * 2011: Research Intern, Ecole Polytechnique Fédérale de Lausanne (EPFL)
 
 ## Research Interests
@@ -45,5 +40,7 @@ My research interests include digital marketing, advertising, marketing and publ
 * Structural models
 
 ## Contact Information
-* **Email:** agoli@uw.edu
-* **Office:** Simon Business School, University of Rochester, Rochester, NY 14620, USA
+* **Email (UW):** agoli@uw.edu
+* **Email (Rochester):** agoli@ur.rochester.edu
+* **Office (UW):** Paccar 459, Foster School of Business, University of Washington
+* **Office (Rochester):** Carol Simon Hall, Simon Business School, University of Rochester
