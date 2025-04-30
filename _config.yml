@@ -13,9 +13,9 @@ title                    : "Ali Goli | Assistant Professor of Marketing"
 title_separator          : "-"
 name                     : &name "Ali Goli"
 description              : &description "Assistant Professor of Marketing at Foster School of Business, University of Washington"
-url                      : https://goliiali.github.io # the base hostname & protocol for your site
+url                      : https://golialii.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "goliiali/goliiali.github.io"
+repository               : "golialii/golialii.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
