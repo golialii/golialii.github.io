@@ -45,15 +45,15 @@ Forthcoming, *International Journal of Research in Marketing*. [SSRN](https://pa
 
 **A Small Number of Objective Function Weight Vectors is Sufficient for Treatment Planning**  
 **A. Goli**, J. J. Boutilier, T. Craig, M. B. Sharpe, T.C.Y. Chan  
-*Physics in Medicine & Biology*, 63(19), 2018. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/aade39)
+*Physics in Medicine & Biology*, 63(19), 2018. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/aad2f0)
 
 **Universal Bounds on the Scaling Behavior of Polar Codes**  
-S. H. Hassani, R. Urbanke, **A. Goli**  
-*IEEE ISIT Proceedings*, 1957–1961, 2012. [Link](https://ieeexplore.ieee.org/document/6283742)
+**A. Goli**, S. H. Hassani, R. Urbanke 
+*IEEE ISIT Proceedings*, 1957–1961, 2012. [Link](https://ieeexplore.ieee.org/abstract/document/6283641)
 
 **Simplified MAP-MUD for Active User CDMA**  
 P. Pad, A. Mousavi, **A. Goli**, F. Marvasti  
-*IEEE Communications Letters*, 15(6), 599–601, 2011. [Link](https://ieeexplore.ieee.org/document/5771472)
+*IEEE Communications Letters*, 15(6), 599–601, 2011. [Link](https://ieeexplore.ieee.org/document/5743055)
 
 ---
 
