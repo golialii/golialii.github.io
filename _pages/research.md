@@ -59,7 +59,7 @@ P. Pad, A. Mousavi, **A. Goli**, F. Marvasti
 
 ### *Working Papers*
 
-**User Engagement with Online Discussion Content: Does it Affect Attrition?**  
+**More Progress, Less Attrition: The Role of User-Generated Content in Online Education**  
 V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
 
 **Investigating the Impact of Advertising on Smoking Cessation**  
