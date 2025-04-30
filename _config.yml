@@ -49,9 +49,9 @@ comments:
 atom_feed:
   hide: false
 
-# Analytics (disabled)
+# Analytics (enabled)
 analytics:
-  provider: false
+  provider: "google-analytics-4"
 
 # Social
 twitter:
