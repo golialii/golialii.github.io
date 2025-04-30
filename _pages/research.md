@@ -65,7 +65,7 @@ V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta.  [Available at SSRN](ht
 **Investigating the Impact of Advertising on Smoking Cessation**  
 E. Loghmani, **A. Goli**.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
 
-**Retail Pricing and Ownership Structure**  
+**Retail Pricing and Organizational Structure**  
 S. Tabanakov, **A. Goli**, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
 
 **Gender Diversity on Cable News: An Analysis of On-Screen Talent and Viewership**  
