@@ -4,81 +4,92 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)  
------  
-*Forthcoming at International Journal of Research in Marketing*  
 
-(D. Proserpio, **A. Goli**, T. Mangini, K. Lau, D. Yu)  
+### *Published & Forthcoming*
 
-Measuring Consumer Sensitivity to Audio Advertising: A Long-Run Field Experiment on Pandora Internet Radio [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3166676)  
------  
-*Quantitative Marketing & Economics, 2025*  
+**The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon**  
+Forthcoming, *International Journal of Research in Marketing*  
+D. Proserpio, **A. Goli**, T. Mangini, K. Lau, D. Yu  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)
 
-(**A. Goli**, J. Huang, D. Reiley, N. Riabov)  
+**Measuring Consumer Sensitivity to Audio Advertising: A Long-Run Field Experiment on Pandora Internet Radio**  
+*Quantitative Marketing & Economics*, 2025  
+**A. Goli**, J. Huang, D. Reiley, N. Riabov  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3166676)
 
-Personalizing Ad Load to Optimize Subscription and Ad Revenues: Product Strategies Constructed from Experiments on Pandora [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874243)  
------  
-*Marketing Science, 2025*  
+**Personalizing Ad Load to Optimize Subscription and Ad Revenues: Product Strategies Constructed from Experiments on Pandora**  
+*Marketing Science*, 2025  
+**A. Goli**, D. Reiley, H. Zhang  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874243)
 
-(**A. Goli**, D. Reiley, H. Zhang)  
+**Frontiers: Can LLMs Capture Human Preferences?**  
+*Marketing Science*, 2024  
+**A. Goli**, A. Singh  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437617)
 
-Frontiers: Can LLMs Capture Human Preferences? [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437617)  
------  
-*Marketing Science, 2024*  
+**Making a Smooth Exit? Menthol Bans and Cigarette Sales in Massachusetts**  
+*Marketing Science*, 2024  
+**A. Goli**, S. Mummalaneni, P. K. Chintagunta  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169265)  
+[CBR Summary](https://www.chicagobooth.edu/review/why-banning-menthol-cigarettes-locally-doesnt-work)
 
-(**A. Goli**, A. Singh)  
+**A Bias Correction Approach for Interference in Ranking Experiments**  
+*Marketing Science*, 2024  
+**A. Goli**, A. Lambrecht, H. Yoganarasimhan  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4021266)
 
-Making a Smooth Exit? Menthol Bans and Cigarette Sales in Massachusetts [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169265)  
------  
-*Marketing Science, 2024*  
+**Show and Sell: Branded Cigarette Product Placement in TV Shows and Cigarette Sales**  
+*Marketing Science*, 2022  
+**A. Goli**, S. Mummalaneni, P. K. Chintagunta, S. Dhar  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3871361)  
+[Video](https://www.youtube.com/watch?v=D6mWD-kyMRk)
 
-(**A. Goli**, S. Mummalaneni, P. K. Chintagunta)  
+**Effect of Payment on User Engagement in MOOCs**  
+*Journal of Marketing Research*, 2022  
+**A. Goli**, P. K. Chintagunta, S. Sriram  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414406)
 
-A Bias Correction Approach for Interference in Ranking Experiments [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4021266)  
------  
-*Marketing Science, 2024*  
+**What Happens When a Retailer Drops a Product Category?**  
+*Marketing Science*, 2021  
+**A. Goli**, P. K. Chintagunta  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232580)  
+[Video](https://www.youtube.com/watch?v=7AO-wtM7TQQ)
 
-(**A. Goli**, A. Lambrecht, H. Yoganarasimhan)  
+---
 
-Show and Sell: Studying the Effects of Branded Cigarette Product Placement in TV Shows on Cigarette Sales [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3871361)  
------  
-*Marketing Science, 2022*  
+### *Working Papers*
 
-(**A. Goli**, S. Mummalaneni, P. K. Chintagunta, S. Dhar)  
+**User Engagement with Online Discussion Content: Does it Affect Attrition?**  
+V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
 
-Effect of Payment on User Engagement in MOOCs [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414406)  
------  
-*Journal of Marketing Research, 2022*  
+**Investigating the Impact of Advertising on Smoking Cessation**  
+E. Loghmani, **A. Goli**  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
 
-(**A. Goli**, P. K. Chintagunta, S. Sriram)  
+**Retail Pricing and Ownership Structure**  
+S. Tabanakov, **A. Goli**, P. K. Chintagunta  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
 
-What Happens When a Retailer Drops a Product Category? Investigating the Consequences of Ending Tobacco Sales [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232580)  
------  
-*Marketing Science, 2021*  
+**Gender Diversity on Cable News: An Analysis of On-Screen Talent and Viewership**  
+**A. Goli**, S. Mummalaneni  
+[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4462592)
 
-(**A. Goli**, P. K. Chintagunta)  
+---
 
+### *Other Publications*
 
-User Engagement with Online Discussion Content: Does it Affect Attrition? [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)  
------  
-*Working Paper*  
+**A Small Number of Objective Function Weight Vectors is Sufficient for Automated Treatment Planning in Prostate Cancer**  
+*A. Goli* et al., *Physics in Medicine & Biology*, 2018  
+[Link](https://iopscience.iop.org/article/10.1088/1361-6560/aade39)
 
-(V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta)  
+**Universal Bounds on the Scaling Behavior of Polar Codes**  
+*A. Goli* et al., *IEEE ISIT*, 2012  
+[Link](https://ieeexplore.ieee.org/document/6283742)
 
-Investigating the Impact of Advertising on Smoking Cessation: The Role of DTC Prescription Drug Advertising [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)  
------  
-*Working Paper*  
+**Simplified MAP-MUD for Active User CDMA**  
+*A. Goli* et al., *IEEE Communications Letters*, 2011  
+[Link](https://ieeexplore.ieee.org/document/5771472)
 
-(E. Loghmani, **A. Goli**)  
+---
 
-Retail Pricing and Ownership Structure [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)  
------  
-*Working Paper*  
-
-(S. Tabanakov, **A. Goli**, P. K. Chintagunta)  
-
-Gender Diversity on Cable News: An Analysis of On-Screen Talent and Viewership [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4462592)  
------  
-*Working Paper*  
-
-(**A. Goli**, S. Mummalaneni)  
