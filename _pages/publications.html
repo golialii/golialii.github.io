@@ -5,31 +5,56 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=XDN3XggAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=XDN3XggAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</div>
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Journal Publications
 
+### 2025
+* **A. Goli, J. Huang, D. Reiley, N. Riabov** (2025). "Measuring Consumer Sensitivity to Audio Advertising: A Long-Run Field Experiment on Pandora Internet Radio." *Quantitative Marketing & Economics*. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3166676)
 
+* **A. Goli, D. Reiley, H. Zhang** (2025). "Personalizing Ad Load to Optimize Subscription and Ad Revenues: Product Strategies Constructed from Experiments on Pandora." *Marketing Science*, 44(2), 327-352. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874243)
+
+### 2024
+* **A. Goli, and A. Singh** (2024). "Frontiers: Can LLMs Capture Human Preferences?" *Marketing Science*, 43(4), 709-722. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437617)
+
+* **A. Goli, S. Mummalaneni, and P. K. Chintagunta** (2024). "Making a Smooth Exit? Menthol Bans and Cigarette Sales in Massachusetts." *Marketing Science*, 43(3), 564-589. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169265) [[CBR summary]](https://www.chicagobooth.edu/review/why-banning-menthol-cigarettes-locally-doesnt-work)
+
+* **A. Goli, A. Lambrecht, H. Yoganarasimhan** (2024). "A Bias Correction Approach for Interference in Ranking Experiments." *Marketing Science*, 43(3), 590-614. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4021266)
+
+### 2022
+* **A. Goli, S. Mummalaneni, P. K. Chintagunta, S. Dhar** (2022). "Show and Sell: Studying the Effects of Branded Cigarette Product Placement in TV Shows on Cigarette Sales." *Marketing Science*, 41(6), 1163-1180. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3871361) [[CBR video]](https://www.youtube.com/watch?v=D6mWD-kyMRk)
+
+* **A. Goli, P. K. Chintagunta, S. Sriram** (2022). "Effect of Payment on User Engagement in MOOCs." *Journal of Marketing Research* 59(1), 11-34. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3414406)
+
+### 2021
+* **A. Goli, P. K. Chintagunta** (2021). "What Happens When a Retailer Drops a Product Category? Investigating the Consequences of Ending Tobacco Sales." *Marketing Science* 40(6), 1169-1198. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232580) [[CBR video]](https://www.youtube.com/watch?v=7AO-wtM7TQQ)
+
+## Other Publications
+
+* **A. Goli, J. J. Boutilier, T. Craig, M. B. Sharpe, T.C.Y Chan** (2018). "A Small Number of Objective Function Weight Vectors is Sufficient for Automated Treatment Planning in Prostate Cancer." *Physics in Medicine & Biology* 63, no. 19.
+
+* **A. Goli, S. H. Hassani, R. Urbanke** (2012). "Universal Bounds on the Scaling Behavior of Polar Codes." *IEEE International Symposium on Information Theory Proceedings*, pp. 1957-1961.
+
+* **P. Pad, A. Mousavi, A. Goli and F. Marvasti** (2011). "Simplified MAP-MUD for Active User CDMA." *IEEE Communications Letters* 15, no. 6: 599-601.
+
+## Working Papers
+
+* **V. Deolankar, A. Goli, S. Sriram, and P. K. Chintagunta**. "User Engagement with Online Discussion Content: Does it Affect Attrition?" [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
+
+* **E. Loghmani, and A. Goli**. "Investigating the Impact of Advertising on Smoking Cessation: The Role of DTC Prescription Drug Advertising." [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
+
+* **D. Proserpio, A. Goli, T. Mangini, K. Lau, and D. Yu**. "The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon."
+
+* **S. Tabanakov, A. Goli, and P. K. Chintagunta**. "Retail Pricing and Ownership Structure." [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
+
+* **A. Goli, and S. Mummalaneni**. "Gender Diversity on Cable News: An Analysis of On-Screen Talent and Viewership." [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4462592)
+
+## Work in Progress
+
+* "The Impact of Caloric Deprivation on Consumer Shopping Behavior" with Xinyao Kong and Pradeep K. Chintagunta.
+
+* "Impact of Ad Format, Distribution Method, and Medium on User Engagement" with David Reiley.
+
+* "The Effects of Brand Partnerships Between Retailers and Credit Card Companies" with Shirsho Biswas and Pradeep K. Chintagunta.
