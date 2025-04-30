@@ -43,6 +43,7 @@ redirect_from:
 ## Publications
 
 ### 2025  
+* **D. Proserpio, A. Goli, T. Mangini, K. Lau, D. Yu**, "The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon", *International Journal of Research in Marketing*, forthcoming.  
 * **A. Goli, J. Huang, D. Reiley, N. Riabov**, "Measuring Consumer Sensitivity to Audio Advertising: A Long-Run Field Experiment on Pandora Internet Radio", *Quantitative Marketing & Economics*, 2025.  
 * **A. Goli, D. Reiley, H. Zhang**, "Personalizing Ad Load to Optimize Subscription and Ad Revenues: Product Strategies Constructed from Experiments on Pandora", *Marketing Science*, 44(2), 327–352, 2025.  
 
@@ -58,8 +59,6 @@ redirect_from:
 ### 2021  
 * **A. Goli, P. K. Chintagunta**, "What Happens When a Retailer Drops a Product Category? Investigating the Consequences of Ending Tobacco Sales", *Marketing Science*, 40(6), 1169–1198, 2021.  
 
-### Forthcoming  
-* **D. Proserpio, A. Goli, T. Mangini, K. Lau, D. Yu**, "The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon", *International Journal of Research in Marketing*, forthcoming.  
 
 ### Other Publications  
 * **A. Goli, J. J. Boutilier, T. Craig, M. B. Sharpe, T. C. Y. Chan**, "A Small Number of Objective Function Weight Vectors is Sufficient for Automated Treatment Planning in Prostate Cancer", *Physics in Medicine & Biology*, 63(19), 2018.  
