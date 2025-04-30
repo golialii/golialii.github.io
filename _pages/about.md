@@ -20,7 +20,7 @@ My research interests include digital marketing, advertising, marketing and publ
 * B.Sc. in Mathematics, Sharif University of Technology, 2013
 
 ## Professional Experience
-* 2025-Future: Assistant Professor, Simon Business School, University of Rochester
+* 2025-: Assistant Professor, Simon Business School, University of Rochester
 * 2024-Present: Senior Economist (Measurement Ad Tech & Data Science), Amazon
 * 2020-Present: Assistant Professor, Foster School of Business, University of Washington
 * 2019-2020: Data Scientist/Economist Contractor, Pandora Media
