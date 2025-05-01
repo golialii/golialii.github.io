@@ -17,7 +17,7 @@ author_profile: true
 ### University of Chicago, Booth School of Business (2017–2020)
 
 - **Math Camp Instructor** – PhD Preparation Course for Incoming Students  
-  (Taught annually as part of the Quantitative Marketing PhD prep)
+  (Taught annually as part of the Booth PhD prep across all areas, including marketing, economics, econometrics, finance, and accounting)
 
 ---
 
