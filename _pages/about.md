@@ -13,16 +13,16 @@ I am an Assistant Professor of Marketing at the Foster School of Business, Unive
 My research interests include digital marketing, advertising, marketing and public policy, customer loyalty, and behavioral economics.
 
 ## Education
-* Ph.D. in Marketing, Booth School of Business, University of Chicago, 2020
-* MBA, Booth School of Business, University of Chicago, 2020
-* M.Sc. in Operations Research, University of Toronto, 2015
-* B.Sc. in Electrical Engineering, Sharif University of Technology, 2013
-* B.Sc. in Mathematics, Sharif University of Technology, 2013
+* Ph.D. in Marketing, Booth School of Business, University of Chicago
+* MBA, Booth School of Business, University of Chicago
+* M.Sc. in Operations Research, University of Toronto
+* B.Sc. in Electrical Engineering, Sharif University of Technology
+* B.Sc. in Mathematics, Sharif University of Technology
 
 ## Professional Experience
 * 2025-: Assistant Professor, Simon Business School, University of Rochester
 * 2024-Present: Senior Economist (Measurement Ad Tech & Data Science), Amazon
-* 2020-Present: Assistant Professor, Foster School of Business, University of Washington
+* 2020-2025: Assistant Professor, Foster School of Business, University of Washington
 * 2019-2020: Data Scientist/Economist Contractor, Pandora Media
 * 2011: Research Intern, Ecole Polytechnique Fédérale de Lausanne (EPFL)
 
