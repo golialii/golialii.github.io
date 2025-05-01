@@ -11,7 +11,7 @@ author_profile: true
 - **MKTG 464: Analytics for Marketing Decisions (Undergraduate)** – Winter 2021, 2022, 2023  
 - **MKTG 564: Analytics for Marketing Decisions (MBA)** – Winter 2021, 2022, 2023  
 - **BUS AN 514: Analytics for Marketing Decisions (MSBA)** – Winter 2021, Spring 2023  
-- **BUS AN 578:  Independent Study / Applied Project (MSBA)** – Fall 2022, Winter 2023  
+- **BUS AN 578: Applied Industry Project (MSBA)** – Fall 2022 (Starbucks), Winter 2023 (Microsoft) 
 - **BUS AN 599: Independent Study / Applied Project** – Spring 2023  
 
 ### University of Chicago, Booth School of Business (2017–2020)
