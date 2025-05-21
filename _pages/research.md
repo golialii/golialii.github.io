@@ -8,7 +8,7 @@ author_profile: true
 
 **The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon**  
 D. Proserpio, **A. Goli**, T. Mangini, K. Lau, D. Yu  
-Forthcoming, *International Journal of Research in Marketing*. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)
+*International Journal of Research in Marketing*, 2025. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)
 
 **Measuring Consumer Sensitivity to Audio Advertising: A Long-Run Field Experiment on Pandora Internet Radio**  
 **A. Goli**, J. Huang, D. Reiley, N. Riabov  
