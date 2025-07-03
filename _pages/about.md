@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Marketing at the Foster School of Business, University of Washington. In July 2025, I will be joining the Simon Business School at the University of Rochester as an Assistant Professor of Marketing. I also serve as a Senior Economist at Amazon (2024-Present).
-
-My research interests include digital marketing, advertising, marketing and public policy, customer loyalty, and behavioral economics.
+I am an Assistant Professor of Marketing at the Simon Business School, University of Rochester. My research interests include digital marketing, advertising, marketing and public policy, customer loyalty, and behavioral economics.
 
 ## Education
 * Ph.D. in Marketing, Booth School of Business, University of Chicago
