@@ -40,7 +40,5 @@ My research interests include digital marketing, advertising, marketing and publ
 * Structural models
 
 ## Contact Information
-* **Email (UW):** agoli@uw.edu
-* **Email (Rochester):** agoli@ur.rochester.edu
-* **Office (UW):** Paccar 459, Foster School of Business, University of Washington
-* **Office (Rochester):** Office 3213, Carol Simon Hall, Simon Business School, University of Rochester
+* **Email:** agoli@ur.rochester.edu
+* **Office:** Office 3213, Carol Simon Hall, Simon Business School, University of Rochester
