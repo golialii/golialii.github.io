@@ -6,6 +6,10 @@ author_profile: true
 ---
 ### *Published & Forthcoming*
 
+**Investigating the Impact of Advertising on Smoking Cessation: The Role of DTC Prescription Drug Advertising**  
+E. Loghmani, **A. Goli**  
+*Marketing Science*, forthcoming. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
+
 **The Impact of Sustainability Programs on Consumer Purchase Behavior: Evidence from Amazon**  
 D. Proserpio, **A. Goli**, T. Mangini, K. Lau, D. Yu  
 *International Journal of Research in Marketing*, 2025. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5045830)
@@ -60,9 +64,6 @@ P. Pad, A. Mousavi, **A. Goli**, F. Marvasti
 
 **More Progress, Less Attrition: The Role of User-Generated Content in Online Education**  
 V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
-
-**Investigating the Impact of Advertising on Smoking Cessation**  
-E. Loghmani, **A. Goli**.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775370)
 
 **Retail Pricing and Organizational Structure**  
 S. Tabanakov, **A. Goli**, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870276)
