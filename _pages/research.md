@@ -62,6 +62,12 @@ P. Pad, A. Mousavi, **A. Goli**, F. Marvasti
 
 ### *Working Papers*
 
+**Advertising as Information or Reminder: Efficiency Gains from Personalizing Ad Length and Frequency**  
+**A. Goli**, D. Reiley, J. Tungodden, W. Qiu.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5498900)
+
+**Evaluating Local Policies: Insights into Consumption and Substitution Behaviors from E-Cigarette Sales Restrictions**  
+C. Chen, L. Hong, **A. Goli**.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360047)
+
 **More Progress, Less Attrition: The Role of User-Generated Content in Online Education**  
 V. Deolankar, **A. Goli**, S. Sriram, P. K. Chintagunta.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755183)
 
