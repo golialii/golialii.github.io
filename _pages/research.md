@@ -62,7 +62,7 @@ P. Pad, A. Mousavi, **A. Goli**, F. Marvasti
 
 ### *Working Papers*
 
-**Shaken Off the Shelf: Branded Product Recalls, Category Demand, and the Rise of Private Labels**  
+**Branded Product Recalls, Category Demand, and the Rise of Private Labels**  
 D. Akchurina, **A. Goli**, K. Duke.  [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6890364)
 
 **LLMs as Gatekeepers: Source Concentration, Factual Quality, and Political Slant in Information Search**  
